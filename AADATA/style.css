@@ -1,0 +1,15 @@
+/* styles.css */
+body {
+  background-color: black;
+  color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: white;
+}
+
+a {
+  color: #5599ff; /* Choose a color that will be visible on a black background */
+}
+
+/* You might need to add additional CSS selectors and properties depending on the HTML structure of your Quarto output */
